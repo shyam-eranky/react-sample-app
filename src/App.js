@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import { hot } from "react-hot-loader";
 import AppContainer from "./components/app-container";
 import service from "./Service";
-import "./App.css";
+import "../public/css/App.css";
 
 class App extends Component {
   constructor(props) {
